@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0BD85711-4D05-4A12-AB34-5A1C1F420EF1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>opensslDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>267bd352-05bb-47f4-98a3-73e5e9b6d7aa++505</key>
+		<string>http://code.taobao.org/svn/secretassistant/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>projects/opensslDemo-3/opensslDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>267bd352-05bb-47f4-98a3-73e5e9b6d7aa++505</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>267bd352-05bb-47f4-98a3-73e5e9b6d7aa++505</key>
+		<string>http://code.taobao.org/svn/secretassistant</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://code.taobao.org/svn/secretassistant/trunk/projects/opensslDemo-3/opensslDemo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>267bd352-05bb-47f4-98a3-73e5e9b6d7aa++505</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>267bd352-05bb-47f4-98a3-73e5e9b6d7aa++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string>remote_svn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
